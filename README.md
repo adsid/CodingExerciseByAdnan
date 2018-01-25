@@ -1,5 +1,5 @@
 # CodingExerciseByAdnan
-Coding Exercise requested by Apex Systems
+Coding Exercise
 
 This is a Spring Boot application to make sure our main application is being accessed by humans and not a by any computers or bot.
 
